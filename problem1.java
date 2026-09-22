@@ -1,7 +1,7 @@
 //majority element
-public class solution {
+public class problem1 {
     public static void main(String [] args){
-        solution sol = new solution();
+        problem1 sol = new problem1();
         int[] nums = {3, 2, 3};
         System.out.println(sol.majorityElement(nums));
     }
